@@ -15,6 +15,9 @@
 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ashivalagar&show_icons=true&count_private=true&theme=radical)
+<div style="height:30vh;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashivalagar&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashivalagar" />
+</div>
 
 [website]: http://ashivalagar.github.io
